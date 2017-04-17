@@ -1,0 +1,60 @@
+/*#aboutUS {
+    border: 2px solid black;
+}
+
+#rightSection {
+    border: 2px solid black;
+}
+
+#leftSection {
+    border: 2px solid black;
+}
+
+body {
+    background-color: mediumblue;
+}
+
+#homepage {
+    width:1000px;
+    height:768px;
+    margin:0 Auto;
+}
+
+
+#header {
+    background: url('pictures/boats_at_dock.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}*/
+.navbar.navbar-default {
+    background-color: cornflowerblue;
+    height: 65px;
+}
+.navbar-default .navbar-nav>.active>a {
+    color: whitesmoke;
+    background-color: cornflowerblue;
+}
+.navbar-default .navbar-brand {
+    color: whitesmoke;
+}
+.navbar-default .navbar-nav>li>a {
+    color: whitesmoke;
+}
+.container-logo {
+    height: 200px;
+
+}
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.jumbotron {
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #ebebe0;
+}
+.bodyContainer {
+    border: 2px solid darkred;
+}
